@@ -1,0 +1,42 @@
+[33mcommit d313d2f1a55208a1a58c387ce723c7f691b22c7d[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m, [m[1;32mfeature[m[33m)[m
+Author: Rajesh <rajesh@gmail.com>
+Date:   Mon Oct 5 18:56:31 2020 +0800
+
+    feature1
+
+[33mcommit 8a073541b5a38cfca8171efd100d34bf44030879[m[33m ([m[1;31morigin/develop[m[33m)[m
+Author: Rajesh-Sanjeevi <35766950+Rajesh-Sanjeevi@users.noreply.github.com>
+Date:   Mon Oct 5 18:41:39 2020 +0800
+
+    Delete firstfile.txt
+
+[33mcommit f2b2c6f9876dc78137a6a2ee1b56c11eb4436255[m
+Merge: 17e43c4 3a42f39
+Author: Rajesh <rajesh@gmail.com>
+Date:   Sat Oct 3 18:42:50 2020 +0800
+
+    resolved conflict
+
+[33mcommit 17e43c4f5c0948756d634e89704bef6c0bdd3f51[m
+Author: Rajesh <rajesh@gmail.com>
+Date:   Sat Oct 3 18:28:36 2020 +0800
+
+    updated the file 2nd time
+
+[33mcommit 3a42f39da25353b19722b24833b817395c767c61[m
+Author: Rajesh-Sanjeevi <35766950+Rajesh-Sanjeevi@users.noreply.github.com>
+Date:   Sat Oct 3 18:28:09 2020 +0800
+
+    Update firstfile.txt
+
+[33mcommit b3cfae86dc27193b7b1d96ae3253a592cda7621b[m
+Author: Rajesh <rajesh@gmail.com>
+Date:   Sat Oct 3 18:27:16 2020 +0800
+
+    First file to develop branch by rajesh
+
+[33mcommit c36c2613d35f1383f0d02ceb95613aa80b10e99c[m
+Author: Rajesh-Sanjeevi <35766950+Rajesh-Sanjeevi@users.noreply.github.com>
+Date:   Fri Oct 2 17:47:10 2020 +0800
+
+    Initial commit
