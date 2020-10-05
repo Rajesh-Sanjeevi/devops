@@ -1,6 +1,0 @@
-This is my first file
- HEAD
-I have updated the file second time
-
-Edited the file by another use and updated git.
- 3a42f39da25353b19722b24833b817395c767c61
